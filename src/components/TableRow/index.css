@@ -1,0 +1,39 @@
+.row-data-container {
+    display: flex;
+    text-decoration: none;
+    color: gray;
+}
+
+.row-data-container:nth-child(even) {
+    background-color: #D6EEEE;
+}
+
+.row-data-container:hover {
+    background-color: #96D4D4;
+}
+
+.index {
+    width: 22px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 22px;
+}
+
+.row-data {
+    width: 230px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    padding: 10px;
+    padding-left: 22px;
+}
+
+
+
+
+
+
+
+
+
+
